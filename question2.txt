@@ -1,0 +1,21 @@
+Python 2.7.2+ (default, Oct  4 2011, 20:03:08) 
+[GCC 4.6.1] on linux2
+Type "copyright", "credits" or "license()" for more information.
+>>> ================================ RESTART ================================
+>>> 
+Lab04_32
+
+----------------------------Lab04_2a--------------------------
+
+To create the catalog,  i will use the dictionary data structure. This is because the dictionary data structure affords us a faster way to search for values based on key indeces.
+
+----------------------------Lab04_2b--------------------------
+
+{'Bananas': 'SPIC_BANANAS', 'Carrots': 'SPIC_CARROTS', 'Strawberries': 'SPIC_STRAWBERRIES', 'Apples': 'SPIC_APPLES', 'Champagne': 'SPIC_CHAMPAIGNE', 'Bread': 'SPIC_BREAD'}
+----------------------------Lab04_2c--------------------------
+
+{'Bananas': 'SPIC_BANANAS', 'Carrots': 'SPIC_CARROTS', 'Strawberries': 'WPIC_STRAWBERRIES', 'Apples': 'SPIC_APPLES', 'Champagne': 'SPIC_CHAMPAIGNE', 'Bread': 'SPIC_BREAD'}
+----------------------------Lab04_2d--------------------------
+
+{'Bananas': 'SPIC_BANANAS', 'Carrots': 'SPIC_CARROTS', 'Strawberries': 'WPIC_STRAWBERRIES', 'Apples': 'SPIC_APPLES', 'Chicken': 'SPIC_CHICKEN', 'Champagne': 'SPIC_CHAMPAIGNE', 'Bread': 'SPIC_BREAD'}
+>>> 
